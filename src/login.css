@@ -1,0 +1,65 @@
+.login{
+    border: solid 1px rgb(87, 89, 173);
+    border-radius: 10px;
+    padding: 25px;
+    margin: 50px 100px 110px 320px;
+    width: 500px;
+    background: rgb(239, 238, 243);
+}
+
+.container{
+    padding: 10px 10px 30px 100px;
+    height: 100%;   
+}
+
+.mb-1{
+    text-align: center;
+}
+.abou > p, h3{
+    text-align: center;
+}
+
+.abou > h3{
+    color: rgb(113, 113, 192);
+    text-decoration: underline;
+}
+.contact{
+    margin: 0px 60px 50px 60px;
+    padding: 30px 100px 30px 100px;
+    width: 1000px;
+    background: rgb(239, 238, 243);
+}
+
+Button{
+    text-align: center;
+}
+
+.f-1{
+    color: rgb(226, 222, 216);
+    text-align: center;
+}
+
+.f-2{
+    font-size: 13px;
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+    color: rgb(226, 222, 216);
+}
+.f-3{
+    background-color: blue;
+}
+
+.f-4{
+    font-size: 13px;
+    text-align: center;
+    color: rgb(226, 222, 216);
+}
+
+.footer{
+    background-color: rgba(2, 5, 5, 0.671);
+}
+
+img{
+    width: 40px;
+    margin: 0px 10px 0px 0px;
+}
